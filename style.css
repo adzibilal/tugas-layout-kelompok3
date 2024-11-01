@@ -9,8 +9,8 @@ body {
 
 nav,
 footer {
-    background-color: #cfcfcf;
-    color: rgb(14, 14, 14);
+    background-color: #2cd82c;
+    color: rgb(255, 255, 255);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -24,7 +24,7 @@ main {
 }
 
 aside {
-    background-color: #cfcfcf;
+    background-color: #fdb1b1;
     color: rgb(14, 14, 14);
     display: flex;
     justify-content: center;
@@ -39,8 +39,8 @@ aside {
 }
 
 .banner {
-    background-color: #cfcfcf;
-    color: rgb(14, 14, 14);
+    background-color: #30daf8;
+    color: rgb(43, 43, 43);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -48,7 +48,11 @@ aside {
 }
 
 .content {
-    background-color: #cfcfcf;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #db5959;
+    font-weight: 900;
 }
 
 /* responsive */
